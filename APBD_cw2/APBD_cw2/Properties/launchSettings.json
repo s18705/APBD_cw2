@@ -2,7 +2,7 @@
   "profiles": {
     "APBD_cw2": {
       "commandName": "Project",
-      "commandLineArgs": "C:\\Users\\Karolina\\source\\repos\\APBD_cw2\\APBD_cw2\\APBD_cw2\\Data\\dane.csv C:\\Users\\Karolina\\source\\repos\\APBD_cw2\\APBD_cw2\\APBD_cw2\\Data\\output.xml 3"
+      "commandLineArgs": "C:\\Users\\Karolina\\source\\repos\\APBD_cw2\\APBD_cw2\\APBD_cw2\\Data\\dane.csv C:\\Users\\Karolina\\source\\repos\\APBD_cw2\\APBD_cw2\\APBD_cw2\\Data\\output.xml json"
     }
   }
 }
