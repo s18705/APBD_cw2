@@ -1,3302 +1,1803 @@
-[
-  {
-    "email": "1@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Nowak1",
-    "tryb": "Informatyka dzienne",
-    "id": "s459",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "1@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Nowak1",
-    "tryb": "Informatyka magisterskie 4 sem",
-    "id": "s459",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "1@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Nowak1",
-    "tryb": "Informatyka doktoranckie",
-    "id": "s459",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "29@pjwstk.edu.pl",
-    "imie": "Kaja",
-    "nazwisko": "Jankowski29",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4816",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "30@pjwstk.edu.pl",
-    "imie": "Justyna",
-    "nazwisko": "Kowalski30",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4749",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "30@pjwstk.edu.pl",
-    "imie": "Justyna",
-    "nazwisko": "Kowalski30",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4749",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "31@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Nowak31",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4432",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "31@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Nowak31",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4432",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "32@pjwstk.edu.pl",
-    "imie": "Kamil",
-    "nazwisko": "Brz\u0119czyszczykiewicz32",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4757",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "33@pjwstk.edu.pl",
-    "imie": "Marta",
-    "nazwisko": "Maciejewski33",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4655",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "34@pjwstk.edu.pl",
-    "imie": "Szymon",
-    "nazwisko": "Jankowski34",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4398",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "35@pjwstk.edu.pl",
-    "imie": "Zbigniew",
-    "nazwisko": "Kowalski35",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4450",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": ""
-  },
-  {
-    "email": "36@pjwstk.edu.pl",
-    "imie": "Karolina",
-    "nazwisko": "Nowak36",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4455",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": ""
-  },
-  {
-    "email": "37@pjwstk.edu.pl",
-    "imie": "Joanna",
-    "nazwisko": "Brz\u0119czyszczykiewicz37",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4799",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "37@pjwstk.edu.pl",
-    "imie": "Joanna",
-    "nazwisko": "Brz\u0119czyszczykiewicz37",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4799",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "38@pjwstk.edu.pl",
-    "imie": "Irena",
-    "nazwisko": "Maciejewski38",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4626",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "38@pjwstk.edu.pl",
-    "imie": "Irena",
-    "nazwisko": "Maciejewski38",
-    "tryb": "Sztuka Nowych Medi\u00F3w zaoczne",
-    "id": "s4626",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "39@pjwstk.edu.pl",
-    "imie": "Adam",
-    "nazwisko": "Jankowski39",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4446",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "40@pjwstk.edu.pl",
-    "imie": "Kacper",
-    "nazwisko": "Kowalski40",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4396",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "40@pjwstk.edu.pl",
-    "imie": "Kacper",
-    "nazwisko": "Kowalski40",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4396",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "41@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Nowak41",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4902",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "41@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Nowak41",
-    "tryb": "Sztuka Nowych Medi\u00F3w zaoczne",
-    "id": "s4902",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "42@pjwstk.edu.pl",
-    "imie": "Aleksandra",
-    "nazwisko": "",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4434",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "42@pjwstk.edu.pl",
-    "imie": "Aleksandra",
-    "nazwisko": "Brz\u0119czyszczykiewicz42",
-    "tryb": "Sztuka Nowych Medi\u00F3w zaoczne",
-    "id": "s4434",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "42@pjwstk.edu.pl",
-    "imie": "Aleksandra",
-    "nazwisko": "Brz\u0119czyszczykiewicz42",
-    "tryb": "Sztuka Nowych Medi\u00F3w zaoczne 6 sem.",
-    "id": "s4434",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "43@pjwstk.edu.pl",
-    "imie": "Katarzyna",
-    "nazwisko": "Maciejewski43",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4517",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "44@pjwstk.edu.pl",
-    "imie": "Grzegorz",
-    "nazwisko": "Jankowski44",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4705",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "45@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Kowalski45",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4661",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "46@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Nowak46",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4842",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "46@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Nowak46",
-    "tryb": "Sztuka Nowych Medi\u00F3w zaoczne 6 sem.",
-    "id": "s4842",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "47@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Brz\u0119czyszczykiewicz47",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4709",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "48@pjwstk.edu.pl",
-    "imie": "Iga",
-    "nazwisko": "Maciejewski48",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4792",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "49@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Jankowski49",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4789",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "49@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Jankowski49",
-    "tryb": "Sztuka Nowych Medi\u00F3w zaoczne",
-    "id": "s4789",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "50@pjwstk.edu.pl",
-    "imie": "Maria",
-    "nazwisko": "Kowalski50",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4708",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "51@pjwstk.edu.pl",
-    "imie": "Artur",
-    "nazwisko": "Nowak51",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4404",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "52@pjwstk.edu.pl",
-    "imie": "Sabina",
-    "nazwisko": "Brz\u0119czyszczykiewicz52",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4513",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "52@pjwstk.edu.pl",
-    "imie": "Sabina",
-    "nazwisko": "Brz\u0119czyszczykiewicz52",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4513",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "53@pjwstk.edu.pl",
-    "imie": "\u0141ukasz",
-    "nazwisko": "Maciejewski53",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4442",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "54@pjwstk.edu.pl",
-    "imie": "Marcin",
-    "nazwisko": "Jankowski54",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4732",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "55@pjwstk.edu.pl",
-    "imie": "Rafa\u0142",
-    "nazwisko": "Kowalski55",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4506",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "56@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Nowak56",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4649",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "56@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Nowak56",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4649",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "57@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Brz\u0119czyszczykiewicz57",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4755",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "57@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Brz\u0119czyszczykiewicz57",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4755",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "58@pjwstk.edu.pl",
-    "imie": "Julia",
-    "nazwisko": "Maciejewski58",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4890",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "59@pjwstk.edu.pl",
-    "imie": "Karol",
-    "nazwisko": "Jankowski59",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4594",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "61@pjwstk.edu.pl",
-    "imie": "Katarzyna",
-    "nazwisko": "Nowak61",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4925",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "62@pjwstk.edu.pl",
-    "imie": "Marzena",
-    "nazwisko": "Brz\u0119czyszczykiewicz62",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4748",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "63@pjwstk.edu.pl",
-    "imie": "Filip",
-    "nazwisko": "Maciejewski63",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4720",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "64@pjwstk.edu.pl",
-    "imie": "Karolina",
-    "nazwisko": "Jankowski64",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4423",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "64@pjwstk.edu.pl",
-    "imie": "Karolina",
-    "nazwisko": "Jankowski64",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4423",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "65@pjwstk.edu.pl",
-    "imie": "Mateusz",
-    "nazwisko": "Kowalski65",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4299",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "66@pjwstk.edu.pl",
-    "imie": "Magdalena",
-    "nazwisko": "Nowak66",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4629",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "66@pjwstk.edu.pl",
-    "imie": "Magdalena",
-    "nazwisko": "Nowak66",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4629",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "67@pjwstk.edu.pl",
-    "imie": "Igor",
-    "nazwisko": "Brz\u0119czyszczykiewicz67",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4889",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "68@pjwstk.edu.pl",
-    "imie": "Bogumi\u0142a",
-    "nazwisko": "Maciejewski68",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4831",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "69@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Jankowski69",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4478",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "69@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Jankowski69",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4478",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "70@pjwstk.edu.pl",
-    "imie": "Marta",
-    "nazwisko": "Kowalski70",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4718",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "71@pjwstk.edu.pl",
-    "imie": "Kamil",
-    "nazwisko": "Nowak71",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4741",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "71@pjwstk.edu.pl",
-    "imie": "Kamil",
-    "nazwisko": "Nowak71",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4741",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "72@pjwstk.edu.pl",
-    "imie": "Beata",
-    "nazwisko": "Brz\u0119czyszczykiewicz72",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4444",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "73@pjwstk.edu.pl",
-    "imie": "Kacper",
-    "nazwisko": "Maciejewski73",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4552",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "74@pjwstk.edu.pl",
-    "imie": "Gustaw",
-    "nazwisko": "Jankowski74",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4462",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "75@pjwstk.edu.pl",
-    "imie": "Arkadiusz",
-    "nazwisko": "Kowalski75",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4414",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "76@pjwstk.edu.pl",
-    "imie": "Sonia",
-    "nazwisko": "Nowak76",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4508",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "77@pjwstk.edu.pl",
-    "imie": "Sandra",
-    "nazwisko": "Brz\u0119czyszczykiewicz77",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4800",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "77@pjwstk.edu.pl",
-    "imie": "Sandra",
-    "nazwisko": "Brz\u0119czyszczykiewicz77",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4800",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "78@pjwstk.edu.pl",
-    "imie": "Ma\u0142gorzata",
-    "nazwisko": "Maciejewski78",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4429",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "78@pjwstk.edu.pl",
-    "imie": "Ma\u0142gorzata",
-    "nazwisko": "Maciejewski78",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4429",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "79@pjwstk.edu.pl",
-    "imie": "Kiyomi",
-    "nazwisko": "Jankowski79",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4927",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "80@pjwstk.edu.pl",
-    "imie": "Konrad",
-    "nazwisko": "Kowalski80",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4502",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "81@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Nowak81",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4744",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "82@pjwstk.edu.pl",
-    "imie": "Maciej",
-    "nazwisko": "Brz\u0119czyszczykiewicz82",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4477",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "83@pjwstk.edu.pl",
-    "imie": "Katarzyna",
-    "nazwisko": "Maciejewski83",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4736",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "84@pjwstk.edu.pl",
-    "imie": "Klaudia",
-    "nazwisko": "Jankowski84",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4849",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "84@pjwstk.edu.pl",
-    "imie": "Klaudia",
-    "nazwisko": "Jankowski84",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4849",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "85@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Kowalski85",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4819",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "86@pjwstk.edu.pl",
-    "imie": "Sebastian",
-    "nazwisko": "Nowak86",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4445",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "87@pjwstk.edu.pl",
-    "imie": "Kamil",
-    "nazwisko": "Brz\u0119czyszczykiewicz87",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4707",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "88@pjwstk.edu.pl",
-    "imie": "Jagna",
-    "nazwisko": "Maciejewski88",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4764",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "89@pjwstk.edu.pl",
-    "imie": "Izabela",
-    "nazwisko": "Jankowski89",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4722",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "90@pjwstk.edu.pl",
-    "imie": "Mateusz",
-    "nazwisko": "Kowalski90",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4452",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "91@pjwstk.edu.pl",
-    "imie": "Daria",
-    "nazwisko": "Nowak91",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4545",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "92@pjwstk.edu.pl",
-    "imie": "Agnieszka",
-    "nazwisko": "Brz\u0119czyszczykiewicz92",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4771",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "93@pjwstk.edu.pl",
-    "imie": "Iwona",
-    "nazwisko": "Maciejewski93",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4706",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "94@pjwstk.edu.pl",
-    "imie": "Aleksandra",
-    "nazwisko": "Jankowski94",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4772",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "95@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Kowalski95",
-    "tryb": "Informatyka dzienne",
-    "id": "s3374",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "95@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Kowalski95",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s3374",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "96@pjwstk.edu.pl",
-    "imie": "Jolanta",
-    "nazwisko": "Nowak96",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4756",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "96@pjwstk.edu.pl",
-    "imie": "Jolanta",
-    "nazwisko": "Nowak96",
-    "tryb": "Sztuka Nowych Medi\u00F3w uzupe\u0142niaj\u0105ce magisterskie",
-    "id": "s4756",
-    "imieMatki": "",
-    "imieOjca": "",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "97@pjwstk.edu.pl",
-    "imie": "Aleksandra",
-    "nazwisko": "Brz\u0119czyszczykiewicz97",
-    "tryb": "Sztuka Nowych Medi\u00F3w dzienne",
-    "id": "s4457",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "252@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz252",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4412",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "252@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz252",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4412",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "253@pjwstk.edu.pl",
-    "imie": "Dariusz",
-    "nazwisko": "Maciejewski253",
-    "tryb": "Informatyka dzienne",
-    "id": "s4525",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "254@pjwstk.edu.pl",
-    "imie": "Kamil",
-    "nazwisko": "Jankowski254",
-    "tryb": "Informatyka dzienne",
-    "id": "s4836",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "254@pjwstk.edu.pl",
-    "imie": "Kamil",
-    "nazwisko": "Jankowski254",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4836",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "255@pjwstk.edu.pl",
-    "imie": "\u0141ukasz",
-    "nazwisko": "Kowalski255",
-    "tryb": "Informatyka dzienne",
-    "id": "s4788",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "256@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Nowak256",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4474",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "257@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz257",
-    "tryb": "Informatyka dzienne",
-    "id": "s4454",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "257@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz257",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4454",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "258@pjwstk.edu.pl",
-    "imie": "Patryk",
-    "nazwisko": "Maciejewski258",
-    "tryb": "Informatyka dzienne",
-    "id": "s4443",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "258@pjwstk.edu.pl",
-    "imie": "Patryk",
-    "nazwisko": "Maciejewski258",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4443",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "259@pjwstk.edu.pl",
-    "imie": "Bhagirath",
-    "nazwisko": "Jankowski259",
-    "tryb": "Informatyka dzienne",
-    "id": "s4851",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "260@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Kowalski260",
-    "tryb": "Informatyka dzienne",
-    "id": "s4579",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "260@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Kowalski260",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4579",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "261@pjwstk.edu.pl",
-    "imie": "Marek",
-    "nazwisko": "Nowak261",
-    "tryb": "Informatyka dzienne",
-    "id": "s4461",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "262@pjwstk.edu.pl",
-    "imie": "Przemys\u0142aw",
-    "nazwisko": "Brz\u0119czyszczykiewicz262",
-    "tryb": "Informatyka dzienne",
-    "id": "s4747",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "263@pjwstk.edu.pl",
-    "imie": "Marcin",
-    "nazwisko": "Maciejewski263",
-    "tryb": "Informatyka dzienne",
-    "id": "s4762",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "264@pjwstk.edu.pl",
-    "imie": "Zuzanna",
-    "nazwisko": "Jankowski264",
-    "tryb": "Zarz\u0105dzanie informacj\u0105 dzienne (kierunek Zarz\u0105dzanie)",
-    "id": "s4413",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "264@pjwstk.edu.pl",
-    "imie": "Zuzanna",
-    "nazwisko": "Jankowski264",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4413",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "265@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Kowalski265",
-    "tryb": "Informatyka dzienne",
-    "id": "s4490",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "266@pjwstk.edu.pl",
-    "imie": "Wojciech",
-    "nazwisko": "Nowak266",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4554",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "266@pjwstk.edu.pl",
-    "imie": "Wojciech",
-    "nazwisko": "Nowak266",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4554",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "267@pjwstk.edu.pl",
-    "imie": "Enkh-Amgalan",
-    "nazwisko": "Brz\u0119czyszczykiewicz267",
-    "tryb": "Informatyka dzienne",
-    "id": "s4340",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "268@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Maciejewski268",
-    "tryb": "Informatyka dzienne",
-    "id": "s4586",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "269@pjwstk.edu.pl",
-    "imie": "Bartosz",
-    "nazwisko": "Jankowski269",
-    "tryb": "Informatyka dzienne",
-    "id": "s4798",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "270@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Kowalski270",
-    "tryb": "Informatyka dzienne",
-    "id": "s4711",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "270@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Kowalski270",
-    "tryb": "Informatyka internetowe",
-    "id": "s4711",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Internetowe"
-  },
-  {
-    "email": "270@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Kowalski270",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4711",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "271@pjwstk.edu.pl",
-    "imie": "Sebastian",
-    "nazwisko": "Nowak271",
-    "tryb": "Informatyka dzienne",
-    "id": "s4056",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "272@pjwstk.edu.pl",
-    "imie": "Aleksandra",
-    "nazwisko": "Brz\u0119czyszczykiewicz272",
-    "tryb": "Informatyka dzienne",
-    "id": "s4549",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "272@pjwstk.edu.pl",
-    "imie": "Aleksandra",
-    "nazwisko": "Brz\u0119czyszczykiewicz272",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4549",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "272@pjwstk.edu.pl",
-    "imie": "Aleksandra",
-    "nazwisko": "Brz\u0119czyszczykiewicz272",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4549",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "273@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Maciejewski273",
-    "tryb": "Informatyka dzienne",
-    "id": "s4618",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "273@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Maciejewski273",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4618",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "274@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Jankowski274",
-    "tryb": "Informatyka dzienne",
-    "id": "s4530",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "274@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Jankowski274",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4530",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "275@pjwstk.edu.pl",
-    "imie": "Andrzej",
-    "nazwisko": "Kowalski275",
-    "tryb": "Informatyka dzienne",
-    "id": "s4607",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "275@pjwstk.edu.pl",
-    "imie": "Andrzej",
-    "nazwisko": "Kowalski275",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4607",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "276@pjwstk.edu.pl",
-    "imie": "Wojciech",
-    "nazwisko": "Nowak276",
-    "tryb": "Informatyka dzienne",
-    "id": "s4459",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "276@pjwstk.edu.pl",
-    "imie": "Wojciech",
-    "nazwisko": "Nowak276",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4459",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "277@pjwstk.edu.pl",
-    "imie": "Monika",
-    "nazwisko": "Brz\u0119czyszczykiewicz277",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4501",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "278@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Maciejewski278",
-    "tryb": "Informatyka dzienne",
-    "id": "s4858",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "279@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Jankowski279",
-    "tryb": "Informatyka dzienne",
-    "id": "s4578",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "280@pjwstk.edu.pl",
-    "imie": "Bartosz",
-    "nazwisko": "Kowalski280",
-    "tryb": "Informatyka dzienne",
-    "id": "s4555",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "281@pjwstk.edu.pl",
-    "imie": "Agata",
-    "nazwisko": "Nowak281",
-    "tryb": "Informatyka dzienne",
-    "id": "s4589",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "281@pjwstk.edu.pl",
-    "imie": "Agata",
-    "nazwisko": "Nowak281",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4589",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "281@pjwstk.edu.pl",
-    "imie": "Agata",
-    "nazwisko": "Nowak281",
-    "tryb": "Informatyka internetowe",
-    "id": "s4589",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Internetowe"
-  },
-  {
-    "email": "282@pjwstk.edu.pl",
-    "imie": "Matthew",
-    "nazwisko": "Brz\u0119czyszczykiewicz282",
-    "tryb": "Informatyka dzienne",
-    "id": "s4945",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "283@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Maciejewski283",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4556",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "283@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Maciejewski283",
-    "tryb": "Informatyka magisterskie uzupe\u0142niaj\u0105ce zaoczne",
-    "id": "s4556",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "284@pjwstk.edu.pl",
-    "imie": "Grzegorz",
-    "nazwisko": "Jankowski284",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4504",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "284@pjwstk.edu.pl",
-    "imie": "Grzegorz",
-    "nazwisko": "Jankowski284",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4504",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "285@pjwstk.edu.pl",
-    "imie": "Sebastian",
-    "nazwisko": "Kowalski285",
-    "tryb": "Informatyka dzienne",
-    "id": "s4505",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "285@pjwstk.edu.pl",
-    "imie": "Sebastian",
-    "nazwisko": "Kowalski285",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4505",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "286@pjwstk.edu.pl",
-    "imie": "Filip",
-    "nazwisko": "Nowak286",
-    "tryb": "Informatyka dzienne",
-    "id": "s4105",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "286@pjwstk.edu.pl",
-    "imie": "Filip",
-    "nazwisko": "Nowak286",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4105",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "286@pjwstk.edu.pl",
-    "imie": "Filip",
-    "nazwisko": "Nowak286",
-    "tryb": "Informatyka jednolite magisterskie",
-    "id": "s4105",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "287@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Brz\u0119czyszczykiewicz287",
-    "tryb": "Informatyka dzienne",
-    "id": "s4487",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "288@pjwstk.edu.pl",
-    "imie": "Artur",
-    "nazwisko": "Maciejewski288",
-    "tryb": "Informatyka dzienne",
-    "id": "s4498",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "288@pjwstk.edu.pl",
-    "imie": "Artur",
-    "nazwisko": "Maciejewski288",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4498",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "289@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Jankowski289",
-    "tryb": "Informatyka dzienne",
-    "id": "s4471",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "289@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Jankowski289",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4471",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "289@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Jankowski289",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4471",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "290@pjwstk.edu.pl",
-    "imie": "Ma\u0142gorzata",
-    "nazwisko": "Kowalski290",
-    "tryb": "Informatyka dzienne",
-    "id": "s4855",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "291@pjwstk.edu.pl",
-    "imie": "Arkadiusz",
-    "nazwisko": "Nowak291",
-    "tryb": "Informatyka dzienne",
-    "id": "s4752",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "292@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Brz\u0119czyszczykiewicz292",
-    "tryb": "Informatyka dzienne",
-    "id": "s4770",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "293@pjwstk.edu.pl",
-    "imie": "Adam",
-    "nazwisko": "Maciejewski293",
-    "tryb": "Informatyka dzienne",
-    "id": "s4476",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "294@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Jankowski294",
-    "tryb": "Informatyka dzienne",
-    "id": "s4724",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "294@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Jankowski294",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4724",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "295@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Kowalski295",
-    "tryb": "Informatyka dzienne",
-    "id": "s4754",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "296@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Nowak296",
-    "tryb": "Informatyka dzienne",
-    "id": "s4769",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "296@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Nowak296",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4769",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "297@pjwstk.edu.pl",
-    "imie": "Maciej",
-    "nazwisko": "Brz\u0119czyszczykiewicz297",
-    "tryb": "Informatyka dzienne",
-    "id": "s4499",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "298@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Maciejewski298",
-    "tryb": "Informatyka dzienne",
-    "id": "s4733",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "298@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Maciejewski298",
-    "tryb": "Informatyka internetowe",
-    "id": "s4733",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Internetowe"
-  },
-  {
-    "email": "299@pjwstk.edu.pl",
-    "imie": "Kasper",
-    "nazwisko": "Jankowski299",
-    "tryb": "Informatyka dzienne",
-    "id": "s4584",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "299@pjwstk.edu.pl",
-    "imie": "Kasper",
-    "nazwisko": "Jankowski299",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4584",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "300@pjwstk.edu.pl",
-    "imie": "Krzysztof",
-    "nazwisko": "Kowalski300",
-    "tryb": "Informatyka dzienne",
-    "id": "s4514",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "300@pjwstk.edu.pl",
-    "imie": "Krzysztof",
-    "nazwisko": "Kowalski300",
-    "tryb": "Informatyka magisterskie uzupe\u0142niaj\u0105ce zaoczne",
-    "id": "s4514",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "301@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Nowak301",
-    "tryb": "Informatyka dzienne",
-    "id": "s4448",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "302@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz302",
-    "tryb": "Informatyka dzienne",
-    "id": "s4664",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "303@pjwstk.edu.pl",
-    "imie": "Katarzyna",
-    "nazwisko": "Maciejewski303",
-    "tryb": "Informatyka dzienne",
-    "id": "s4935",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "303@pjwstk.edu.pl",
-    "imie": "Katarzyna",
-    "nazwisko": "Maciejewski303",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4935",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "304@pjwstk.edu.pl",
-    "imie": "Konrad",
-    "nazwisko": "Jankowski304",
-    "tryb": "Informatyka dzienne",
-    "id": "s4485",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "305@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Kowalski305",
-    "tryb": "Informatyka dzienne",
-    "id": "s4456",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "305@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Kowalski305",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4456",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "306@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Nowak306",
-    "tryb": "Informatyka dzienne",
-    "id": "s4107",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "306@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Nowak306",
-    "tryb": "Informatyka internetowe",
-    "id": "s4107",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Internetowe"
-  },
-  {
-    "email": "306@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Nowak306",
-    "tryb": "Informatyka jednolite magisterskie",
-    "id": "s4107",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "306@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Nowak306",
-    "tryb": "Informatyka jednolite magisterskie po angielsku",
-    "id": "s4107",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "307@pjwstk.edu.pl",
-    "imie": "Rados\u0142aw",
-    "nazwisko": "Brz\u0119czyszczykiewicz307",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4482",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "308@pjwstk.edu.pl",
-    "imie": "Kacper",
-    "nazwisko": "Maciejewski308",
-    "tryb": "Informatyka dzienne",
-    "id": "s4817",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "308@pjwstk.edu.pl",
-    "imie": "Kacper",
-    "nazwisko": "Maciejewski308",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4817",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "309@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Jankowski309",
-    "tryb": "Informatyka dzienne",
-    "id": "s4765",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "310@pjwstk.edu.pl",
-    "imie": "Lech",
-    "nazwisko": "Kowalski310",
-    "tryb": "Informatyka dzienne",
-    "id": "s4387",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "310@pjwstk.edu.pl",
-    "imie": "Lech",
-    "nazwisko": "Kowalski310",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4387",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "311@pjwstk.edu.pl",
-    "imie": "B\u0142a\u017Cej",
-    "nazwisko": "Nowak311",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4509",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "311@pjwstk.edu.pl",
-    "imie": "B\u0142a\u017Cej",
-    "nazwisko": "Nowak311",
-    "tryb": "Informatyka magisterskie uzupe\u0142niaj\u0105ce zaoczne",
-    "id": "s4509",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "312@pjwstk.edu.pl",
-    "imie": "Karol",
-    "nazwisko": "Brz\u0119czyszczykiewicz312",
-    "tryb": "Informatyka dzienne",
-    "id": "s4609",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "313@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Maciejewski313",
-    "tryb": "Informatyka dzienne",
-    "id": "s4481",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "313@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Maciejewski313",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4481",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "314@pjwstk.edu.pl",
-    "imie": "Wojciech",
-    "nazwisko": "Jankowski314",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4512",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "314@pjwstk.edu.pl",
-    "imie": "Wojciech",
-    "nazwisko": "Jankowski314",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4512",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "315@pjwstk.edu.pl",
-    "imie": "Maciej",
-    "nazwisko": "Kowalski315",
-    "tryb": "Informatyka dzienne",
-    "id": "s4782",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "315@pjwstk.edu.pl",
-    "imie": "Maciej",
-    "nazwisko": "Kowalski315",
-    "tryb": "Informatyka Spo\u0142eczna",
-    "id": "s4782",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "316@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Nowak316",
-    "tryb": "Informatyka dzienne",
-    "id": "s4492",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "317@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Brz\u0119czyszczykiewicz317",
-    "tryb": "Informatyka dzienne",
-    "id": "s4531",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "318@pjwstk.edu.pl",
-    "imie": "Marcin",
-    "nazwisko": "Maciejewski318",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4406",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "319@pjwstk.edu.pl",
-    "imie": "Krzysztof",
-    "nazwisko": "Jankowski319",
-    "tryb": "Informatyka dzienne",
-    "id": "s4394",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "320@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Kowalski320",
-    "tryb": "Informatyka internetowe magisterskie",
-    "id": "s4627",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Internetowe"
-  },
-  {
-    "email": "320@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Kowalski320",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4627",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "321@pjwstk.edu.pl",
-    "imie": "Krzysztof",
-    "nazwisko": "Nowak321",
-    "tryb": "Informatyka dzienne",
-    "id": "s4830",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "321@pjwstk.edu.pl",
-    "imie": "Krzysztof",
-    "nazwisko": "Nowak321",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4830",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "322@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Brz\u0119czyszczykiewicz322",
-    "tryb": "Informatyka dzienne",
-    "id": "s4486",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "323@pjwstk.edu.pl",
-    "imie": "Mariusz",
-    "nazwisko": "Maciejewski323",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4447",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "323@pjwstk.edu.pl",
-    "imie": "Mariusz",
-    "nazwisko": "Maciejewski323",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4447",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "324@pjwstk.edu.pl",
-    "imie": "Bartosz",
-    "nazwisko": "Jankowski324",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4580",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "324@pjwstk.edu.pl",
-    "imie": "Bartosz",
-    "nazwisko": "Jankowski324",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4580",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "325@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Kowalski325",
-    "tryb": "Informatyka dzienne",
-    "id": "s4284",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "325@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Kowalski325",
-    "tryb": "Sztuka Nowych Medi\u00F3w zaoczne",
-    "id": "s4284",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "326@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Nowak326",
-    "tryb": "Informatyka dzienne",
-    "id": "s4440",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "326@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Nowak326",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4440",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "327@pjwstk.edu.pl",
-    "imie": "Aleksander",
-    "nazwisko": "Brz\u0119czyszczykiewicz327",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4410",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "328@pjwstk.edu.pl",
-    "imie": "Andrzej",
-    "nazwisko": "Maciejewski328",
-    "tryb": "Informatyka dzienne",
-    "id": "s4615",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "329@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Jankowski329",
-    "tryb": "Informatyka dzienne",
-    "id": "s4796",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "329@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Jankowski329",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4796",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "330@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Kowalski330",
-    "tryb": "Informatyka dzienne",
-    "id": "s4458",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "332@pjwstk.edu.pl",
-    "imie": "Nakul",
-    "nazwisko": "Brz\u0119czyszczykiewicz332",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4942",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "332@pjwstk.edu.pl",
-    "imie": "Nakul",
-    "nazwisko": "Brz\u0119czyszczykiewicz332",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4942",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "333@pjwstk.edu.pl",
-    "imie": "Tomoto",
-    "nazwisko": "Maciejewski333",
-    "tryb": "Informatyka dzienne",
-    "id": "s4614",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "333@pjwstk.edu.pl",
-    "imie": "Tomoto",
-    "nazwisko": "Maciejewski333",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4614",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "334@pjwstk.edu.pl",
-    "imie": "Krzysztof",
-    "nazwisko": "Jankowski334",
-    "tryb": "Informatyka dzienne",
-    "id": "s4822",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "335@pjwstk.edu.pl",
-    "imie": "Adam",
-    "nazwisko": "Kowalski335",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4433",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "335@pjwstk.edu.pl",
-    "imie": "Adam",
-    "nazwisko": "Kowalski335",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4433",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "336@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Nowak336",
-    "tryb": "Informatyka dzienne",
-    "id": "s4557",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "337@pjwstk.edu.pl",
-    "imie": "Gabriel",
-    "nazwisko": "Brz\u0119czyszczykiewicz337",
-    "tryb": "Informatyka dzienne",
-    "id": "s4599",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "338@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Maciejewski338",
-    "tryb": "Informatyka dzienne",
-    "id": "s4419",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "338@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Maciejewski338",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4419",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "338@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Maciejewski338",
-    "tryb": "Informatyka doktoranckie",
-    "id": "s4419",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "339@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Jankowski339",
-    "tryb": "Informatyka dzienne",
-    "id": "s4828",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "340@pjwstk.edu.pl",
-    "imie": "Kacper",
-    "nazwisko": "Kowalski340",
-    "tryb": "Informatyka dzienne",
-    "id": "s4460",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "341@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Nowak341",
-    "tryb": "Informatyka dzienne",
-    "id": "s4058",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "341@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Nowak341",
-    "tryb": "Informatyka wieczorowe",
-    "id": "s4058",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Wieczorowe"
-  },
-  {
-    "email": "342@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz342",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4524",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "342@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz342",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4524",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "343@pjwstk.edu.pl",
-    "imie": "Katarzyna",
-    "nazwisko": "Maciejewski343",
-    "tryb": "Informatyka dzienne",
-    "id": "s4588",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "344@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Jankowski344",
-    "tryb": "Informatyka dzienne",
-    "id": "s4743",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "345@pjwstk.edu.pl",
-    "imie": "Karol",
-    "nazwisko": "Kowalski345",
-    "tryb": "Informatyka dzienne",
-    "id": "s4721",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "346@pjwstk.edu.pl",
-    "imie": "Rados\u0142aw",
-    "nazwisko": "Nowak346",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4544",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "347@pjwstk.edu.pl",
-    "imie": "Marco",
-    "nazwisko": "Brz\u0119czyszczykiewicz347",
-    "tryb": "Informatyka dzienne",
-    "id": "s4426",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "348@pjwstk.edu.pl",
-    "imie": "Jagoda",
-    "nazwisko": "Maciejewski348",
-    "tryb": "Informatyka dzienne",
-    "id": "s4532",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "348@pjwstk.edu.pl",
-    "imie": "Jagoda",
-    "nazwisko": "Maciejewski348",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4532",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "349@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Jankowski349",
-    "tryb": "Informatyka dzienne",
-    "id": "s4480",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "349@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Jankowski349",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4480",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "350@pjwstk.edu.pl",
-    "imie": "Przemys\u0142aw",
-    "nazwisko": "Kowalski350",
-    "tryb": "Informatyka dzienne",
-    "id": "s4441",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "351@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Nowak351",
-    "tryb": "Informatyka dzienne",
-    "id": "s4523",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "351@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Nowak351",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4523",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "352@pjwstk.edu.pl",
-    "imie": "Bartosz",
-    "nazwisko": "Brz\u0119czyszczykiewicz352",
-    "tryb": "Informatyka dzienne",
-    "id": "s4766",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "352@pjwstk.edu.pl",
-    "imie": "Bartosz",
-    "nazwisko": "Brz\u0119czyszczykiewicz352",
-    "tryb": "Informatyka internetowe",
-    "id": "s4766",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Internetowe"
-  },
-  {
-    "email": "353@pjwstk.edu.pl",
-    "imie": "Achut",
-    "nazwisko": "Maciejewski353",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4941",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "354@pjwstk.edu.pl",
-    "imie": "Aleksander",
-    "nazwisko": "Jankowski354",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4647",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "355@pjwstk.edu.pl",
-    "imie": "Jan",
-    "nazwisko": "Kowalski355",
-    "tryb": "Informatyka dzienne",
-    "id": "s4500",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "356@pjwstk.edu.pl",
-    "imie": "Yuriy",
-    "nazwisko": "Nowak356",
-    "tryb": "Informatyka dzienne",
-    "id": "s4422",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "356@pjwstk.edu.pl",
-    "imie": "Yuriy",
-    "nazwisko": "Nowak356",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4422",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "357@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz357",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4660",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "357@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz357",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4660",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "358@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Maciejewski358",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4521",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "359@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Jankowski359",
-    "tryb": "Informatyka dzienne",
-    "id": "s4585",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "360@pjwstk.edu.pl",
-    "imie": "Miko\u0142aj",
-    "nazwisko": "Kowalski360",
-    "tryb": "Informatyka dzienne",
-    "id": "s3081",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "360@pjwstk.edu.pl",
-    "imie": "Miko\u0142aj",
-    "nazwisko": "Kowalski360",
-    "tryb": "Informatyka jednolite magisterskie",
-    "id": "s3081",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "360@pjwstk.edu.pl",
-    "imie": "Miko\u0142aj",
-    "nazwisko": "Kowalski360",
-    "tryb": "Informatyka jednolite magisterskie po angielsku",
-    "id": "s3081",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "361@pjwstk.edu.pl",
-    "imie": "Dariusz",
-    "nazwisko": "Nowak361",
-    "tryb": "Informatyka dzienne",
-    "id": "s4710",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "362@pjwstk.edu.pl",
-    "imie": "Anna",
-    "nazwisko": "Brz\u0119czyszczykiewicz362",
-    "tryb": "Informatyka dzienne",
-    "id": "s4385",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "362@pjwstk.edu.pl",
-    "imie": "Anna",
-    "nazwisko": "Brz\u0119czyszczykiewicz362",
-    "tryb": "Informatyka internetowe",
-    "id": "s4385",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Internetowe"
-  },
-  {
-    "email": "363@pjwstk.edu.pl",
-    "imie": "Piotr",
-    "nazwisko": "Maciejewski363",
-    "tryb": "Informatyka dzienne",
-    "id": "s4529",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "364@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Jankowski364",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4522",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "364@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Jankowski364",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4522",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "365@pjwstk.edu.pl",
-    "imie": "Dawid",
-    "nazwisko": "Kowalski365",
-    "tryb": "Informatyka dzienne",
-    "id": "s4827",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "366@pjwstk.edu.pl",
-    "imie": "Karol",
-    "nazwisko": "Nowak366",
-    "tryb": "Informatyka dzienne",
-    "id": "s4518",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "366@pjwstk.edu.pl",
-    "imie": "Karol",
-    "nazwisko": "Nowak366",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4518",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "367@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Brz\u0119czyszczykiewicz367",
-    "tryb": "Informatyka dzienne",
-    "id": "s4384",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "367@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Brz\u0119czyszczykiewicz367",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4384",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "367@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Brz\u0119czyszczykiewicz367",
-    "tryb": "Informatyka internetowe",
-    "id": "s4384",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Internetowe"
-  },
-  {
-    "email": "368@pjwstk.edu.pl",
-    "imie": "\u0141ukasz",
-    "nazwisko": "Maciejewski368",
-    "tryb": "Informatyka dzienne",
-    "id": "s4496",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "368@pjwstk.edu.pl",
-    "imie": "\u0141ukasz",
-    "nazwisko": "Maciejewski368",
-    "tryb": "Informatyka Spo\u0142eczna",
-    "id": "s4496",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "369@pjwstk.edu.pl",
-    "imie": "Adam",
-    "nazwisko": "Jankowski369",
-    "tryb": "Informatyka dzienne",
-    "id": "s4750",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "369@pjwstk.edu.pl",
-    "imie": "Adam",
-    "nazwisko": "Jankowski369",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4750",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "369@pjwstk.edu.pl",
-    "imie": "Adam",
-    "nazwisko": "Jankowski369",
-    "tryb": "Informatyka internetowe",
-    "id": "s4750",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Internetowe"
-  },
-  {
-    "email": "370@pjwstk.edu.pl",
-    "imie": "Arkadiusz",
-    "nazwisko": "Kowalski370",
-    "tryb": "Informatyka dzienne",
-    "id": "s4111",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "371@pjwstk.edu.pl",
-    "imie": "Jakub",
-    "nazwisko": "Nowak371",
-    "tryb": "Informatyka dzienne",
-    "id": "s4484",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "372@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz372",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4483",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "372@pjwstk.edu.pl",
-    "imie": "Micha\u0142",
-    "nazwisko": "Brz\u0119czyszczykiewicz372",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4483",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "373@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Maciejewski373",
-    "tryb": "Informatyka dzienne",
-    "id": "s4751",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "373@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Maciejewski373",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4751",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "373@pjwstk.edu.pl",
-    "imie": "Tomasz",
-    "nazwisko": "Maciejewski373",
-    "tryb": "MBA dla bran\u017Cy IT",
-    "id": "s4751",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "374@pjwstk.edu.pl",
-    "imie": "Rados\u0142aw",
-    "nazwisko": "Jankowski374",
-    "tryb": "Informatyka dzienne",
-    "id": "s4528",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "374@pjwstk.edu.pl",
-    "imie": "Rados\u0142aw",
-    "nazwisko": "Jankowski374",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4528",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "375@pjwstk.edu.pl",
-    "imie": "Pawe\u0142",
-    "nazwisko": "Kowalski375",
-    "tryb": "Informatyka dzienne",
-    "id": "s4533",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "376@pjwstk.edu.pl",
-    "imie": "Przemys\u0142aw",
-    "nazwisko": "Nowak376",
-    "tryb": "Informatyka dzienne",
-    "id": "s4814",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "376@pjwstk.edu.pl",
-    "imie": "Przemys\u0142aw",
-    "nazwisko": "Nowak376",
-    "tryb": "Informatyka zaoczne",
-    "id": "s4814",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Zaoczne"
-  },
-  {
-    "email": "377@pjwstk.edu.pl",
-    "imie": "Adam",
-    "nazwisko": "Brz\u0119czyszczykiewicz377",
-    "tryb": "Informatyka dzienne",
-    "id": "s4753",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "378@pjwstk.edu.pl",
-    "imie": "Dawid",
-    "nazwisko": "Maciejewski378",
-    "tryb": "Informatyka dzienne",
-    "id": "s4520",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "379@pjwstk.edu.pl",
-    "imie": "Adrian",
-    "nazwisko": "Jankowski379",
-    "tryb": "Informatyka dzienne",
-    "id": "s4837",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "380@pjwstk.edu.pl",
-    "imie": "S\u0142awomir",
-    "nazwisko": "Kowalski380",
-    "tryb": "Informatyka dzienne",
-    "id": "s4611",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "381@pjwstk.edu.pl",
-    "imie": "Rafa\u0142",
-    "nazwisko": "Nowak381",
-    "tryb": "Informatyka dzienne",
-    "id": "s4616",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "381@pjwstk.edu.pl",
-    "imie": "Rafa\u0142",
-    "nazwisko": "Nowak381",
-    "tryb": "Informatyka magisterskie 3 sem",
-    "id": "s4616",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  },
-  {
-    "email": "382@pjwstk.edu.pl",
-    "imie": "Agnieszka",
-    "nazwisko": "Brz\u0119czyszczykiewicz382",
-    "tryb": "Informatyka dzienne po angielsku",
-    "id": "s4603",
-    "imieMatki": "Alina",
-    "imieOjca": "Adam",
-    "dataUrodzenia": "12.02.2000",
-    "studia": "Dzienne"
-  }
-]
+<?xml version="1.0" encoding="utf-8"?>
+<uczelnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student Email="1@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Nowak1" Tryb="Informatyka dzienne" Id="s459" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="1@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Nowak1" Tryb="Informatyka magisterskie 4 sem" Id="s459" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 4 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="1@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Nowak1" Tryb="Informatyka doktoranckie" Id="s459" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka doktoranckie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="29@pjwstk.edu.pl" Imie="Kaja" Nazwisko="Jankowski29" Tryb="Sztuka Nowych Mediów dzienne" Id="s4816" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="30@pjwstk.edu.pl" Imie="Justyna" Nazwisko="Kowalski30" Tryb="Sztuka Nowych Mediów dzienne" Id="s4749" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="30@pjwstk.edu.pl" Imie="Justyna" Nazwisko="Kowalski30" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4749" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="31@pjwstk.edu.pl" Imie="Michał" Nazwisko="Nowak31" Tryb="Sztuka Nowych Mediów dzienne" Id="s4432" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="31@pjwstk.edu.pl" Imie="Michał" Nazwisko="Nowak31" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4432" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="32@pjwstk.edu.pl" Imie="Kamil" Nazwisko="Brzęczyszczykiewicz32" Tryb="Sztuka Nowych Mediów dzienne" Id="s4757" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="33@pjwstk.edu.pl" Imie="Marta" Nazwisko="Maciejewski33" Tryb="Sztuka Nowych Mediów dzienne" Id="s4655" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="34@pjwstk.edu.pl" Imie="Szymon" Nazwisko="Jankowski34" Tryb="Sztuka Nowych Mediów dzienne" Id="s4398" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="35@pjwstk.edu.pl" Imie="Zbigniew" Nazwisko="Kowalski35" Tryb="Sztuka Nowych Mediów dzienne" Id="s4450" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode />
+    </studia>
+  </Student>
+  <Student Email="36@pjwstk.edu.pl" Imie="Karolina" Nazwisko="Nowak36" Tryb="Sztuka Nowych Mediów dzienne" Id="s4455" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode />
+    </studia>
+  </Student>
+  <Student Email="37@pjwstk.edu.pl" Imie="Joanna" Nazwisko="Brzęczyszczykiewicz37" Tryb="Sztuka Nowych Mediów dzienne" Id="s4799" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="37@pjwstk.edu.pl" Imie="Joanna" Nazwisko="Brzęczyszczykiewicz37" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4799" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="38@pjwstk.edu.pl" Imie="Irena" Nazwisko="Maciejewski38" Tryb="Sztuka Nowych Mediów dzienne" Id="s4626" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="38@pjwstk.edu.pl" Imie="Irena" Nazwisko="Maciejewski38" Tryb="Sztuka Nowych Mediów zaoczne" Id="s4626" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="39@pjwstk.edu.pl" Imie="Adam" Nazwisko="Jankowski39" Tryb="Sztuka Nowych Mediów dzienne" Id="s4446" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="40@pjwstk.edu.pl" Imie="Kacper" Nazwisko="Kowalski40" Tryb="Sztuka Nowych Mediów dzienne" Id="s4396" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="40@pjwstk.edu.pl" Imie="Kacper" Nazwisko="Kowalski40" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4396" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="41@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Nowak41" Tryb="Sztuka Nowych Mediów dzienne" Id="s4902" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="41@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Nowak41" Tryb="Sztuka Nowych Mediów zaoczne" Id="s4902" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="42@pjwstk.edu.pl" Imie="Aleksandra" Nazwisko="" Tryb="Sztuka Nowych Mediów dzienne" Id="s4434" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="42@pjwstk.edu.pl" Imie="Aleksandra" Nazwisko="Brzęczyszczykiewicz42" Tryb="Sztuka Nowych Mediów zaoczne" Id="s4434" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="42@pjwstk.edu.pl" Imie="Aleksandra" Nazwisko="Brzęczyszczykiewicz42" Tryb="Sztuka Nowych Mediów zaoczne 6 sem." Id="s4434" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów zaoczne 6 sem.</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="43@pjwstk.edu.pl" Imie="Katarzyna" Nazwisko="Maciejewski43" Tryb="Sztuka Nowych Mediów dzienne" Id="s4517" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="44@pjwstk.edu.pl" Imie="Grzegorz" Nazwisko="Jankowski44" Tryb="Sztuka Nowych Mediów dzienne" Id="s4705" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="45@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Kowalski45" Tryb="Sztuka Nowych Mediów dzienne" Id="s4661" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="46@pjwstk.edu.pl" Imie="Jan" Nazwisko="Nowak46" Tryb="Sztuka Nowych Mediów dzienne" Id="s4842" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="46@pjwstk.edu.pl" Imie="Jan" Nazwisko="Nowak46" Tryb="Sztuka Nowych Mediów zaoczne 6 sem." Id="s4842" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów zaoczne 6 sem.</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="47@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Brzęczyszczykiewicz47" Tryb="Sztuka Nowych Mediów dzienne" Id="s4709" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="48@pjwstk.edu.pl" Imie="Iga" Nazwisko="Maciejewski48" Tryb="Sztuka Nowych Mediów dzienne" Id="s4792" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="49@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Jankowski49" Tryb="Sztuka Nowych Mediów dzienne" Id="s4789" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="49@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Jankowski49" Tryb="Sztuka Nowych Mediów zaoczne" Id="s4789" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="50@pjwstk.edu.pl" Imie="Maria" Nazwisko="Kowalski50" Tryb="Sztuka Nowych Mediów dzienne" Id="s4708" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="51@pjwstk.edu.pl" Imie="Artur" Nazwisko="Nowak51" Tryb="Sztuka Nowych Mediów dzienne" Id="s4404" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="52@pjwstk.edu.pl" Imie="Sabina" Nazwisko="Brzęczyszczykiewicz52" Tryb="Sztuka Nowych Mediów dzienne" Id="s4513" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="52@pjwstk.edu.pl" Imie="Sabina" Nazwisko="Brzęczyszczykiewicz52" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4513" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="53@pjwstk.edu.pl" Imie="Łukasz" Nazwisko="Maciejewski53" Tryb="Sztuka Nowych Mediów dzienne" Id="s4442" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="54@pjwstk.edu.pl" Imie="Marcin" Nazwisko="Jankowski54" Tryb="Sztuka Nowych Mediów dzienne" Id="s4732" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="55@pjwstk.edu.pl" Imie="Rafał" Nazwisko="Kowalski55" Tryb="Sztuka Nowych Mediów dzienne" Id="s4506" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="56@pjwstk.edu.pl" Imie="Jan" Nazwisko="Nowak56" Tryb="Sztuka Nowych Mediów dzienne" Id="s4649" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="56@pjwstk.edu.pl" Imie="Jan" Nazwisko="Nowak56" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4649" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="57@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Brzęczyszczykiewicz57" Tryb="Sztuka Nowych Mediów dzienne" Id="s4755" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="57@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Brzęczyszczykiewicz57" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4755" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="58@pjwstk.edu.pl" Imie="Julia" Nazwisko="Maciejewski58" Tryb="Sztuka Nowych Mediów dzienne" Id="s4890" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="59@pjwstk.edu.pl" Imie="Karol" Nazwisko="Jankowski59" Tryb="Sztuka Nowych Mediów dzienne" Id="s4594" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="61@pjwstk.edu.pl" Imie="Katarzyna" Nazwisko="Nowak61" Tryb="Sztuka Nowych Mediów dzienne" Id="s4925" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="62@pjwstk.edu.pl" Imie="Marzena" Nazwisko="Brzęczyszczykiewicz62" Tryb="Sztuka Nowych Mediów dzienne" Id="s4748" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="63@pjwstk.edu.pl" Imie="Filip" Nazwisko="Maciejewski63" Tryb="Sztuka Nowych Mediów dzienne" Id="s4720" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="64@pjwstk.edu.pl" Imie="Karolina" Nazwisko="Jankowski64" Tryb="Sztuka Nowych Mediów dzienne" Id="s4423" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="64@pjwstk.edu.pl" Imie="Karolina" Nazwisko="Jankowski64" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4423" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="65@pjwstk.edu.pl" Imie="Mateusz" Nazwisko="Kowalski65" Tryb="Sztuka Nowych Mediów dzienne" Id="s4299" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="66@pjwstk.edu.pl" Imie="Magdalena" Nazwisko="Nowak66" Tryb="Sztuka Nowych Mediów dzienne" Id="s4629" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="66@pjwstk.edu.pl" Imie="Magdalena" Nazwisko="Nowak66" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4629" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="67@pjwstk.edu.pl" Imie="Igor" Nazwisko="Brzęczyszczykiewicz67" Tryb="Sztuka Nowych Mediów dzienne" Id="s4889" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="68@pjwstk.edu.pl" Imie="Bogumiła" Nazwisko="Maciejewski68" Tryb="Sztuka Nowych Mediów dzienne" Id="s4831" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="69@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Jankowski69" Tryb="Sztuka Nowych Mediów dzienne" Id="s4478" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="69@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Jankowski69" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4478" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="70@pjwstk.edu.pl" Imie="Marta" Nazwisko="Kowalski70" Tryb="Sztuka Nowych Mediów dzienne" Id="s4718" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="71@pjwstk.edu.pl" Imie="Kamil" Nazwisko="Nowak71" Tryb="Sztuka Nowych Mediów dzienne" Id="s4741" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="71@pjwstk.edu.pl" Imie="Kamil" Nazwisko="Nowak71" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4741" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="72@pjwstk.edu.pl" Imie="Beata" Nazwisko="Brzęczyszczykiewicz72" Tryb="Sztuka Nowych Mediów dzienne" Id="s4444" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="73@pjwstk.edu.pl" Imie="Kacper" Nazwisko="Maciejewski73" Tryb="Sztuka Nowych Mediów dzienne" Id="s4552" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="74@pjwstk.edu.pl" Imie="Gustaw" Nazwisko="Jankowski74" Tryb="Sztuka Nowych Mediów dzienne" Id="s4462" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="75@pjwstk.edu.pl" Imie="Arkadiusz" Nazwisko="Kowalski75" Tryb="Sztuka Nowych Mediów dzienne" Id="s4414" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="76@pjwstk.edu.pl" Imie="Sonia" Nazwisko="Nowak76" Tryb="Sztuka Nowych Mediów dzienne" Id="s4508" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="77@pjwstk.edu.pl" Imie="Sandra" Nazwisko="Brzęczyszczykiewicz77" Tryb="Sztuka Nowych Mediów dzienne" Id="s4800" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="77@pjwstk.edu.pl" Imie="Sandra" Nazwisko="Brzęczyszczykiewicz77" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4800" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="78@pjwstk.edu.pl" Imie="Małgorzata" Nazwisko="Maciejewski78" Tryb="Sztuka Nowych Mediów dzienne" Id="s4429" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="78@pjwstk.edu.pl" Imie="Małgorzata" Nazwisko="Maciejewski78" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4429" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="79@pjwstk.edu.pl" Imie="Kiyomi" Nazwisko="Jankowski79" Tryb="Sztuka Nowych Mediów dzienne" Id="s4927" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="80@pjwstk.edu.pl" Imie="Konrad" Nazwisko="Kowalski80" Tryb="Sztuka Nowych Mediów dzienne" Id="s4502" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="81@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Nowak81" Tryb="Sztuka Nowych Mediów dzienne" Id="s4744" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="82@pjwstk.edu.pl" Imie="Maciej" Nazwisko="Brzęczyszczykiewicz82" Tryb="Sztuka Nowych Mediów dzienne" Id="s4477" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="83@pjwstk.edu.pl" Imie="Katarzyna" Nazwisko="Maciejewski83" Tryb="Sztuka Nowych Mediów dzienne" Id="s4736" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="84@pjwstk.edu.pl" Imie="Klaudia" Nazwisko="Jankowski84" Tryb="Sztuka Nowych Mediów dzienne" Id="s4849" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="84@pjwstk.edu.pl" Imie="Klaudia" Nazwisko="Jankowski84" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4849" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="85@pjwstk.edu.pl" Imie="Michał" Nazwisko="Kowalski85" Tryb="Sztuka Nowych Mediów dzienne" Id="s4819" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="86@pjwstk.edu.pl" Imie="Sebastian" Nazwisko="Nowak86" Tryb="Sztuka Nowych Mediów dzienne" Id="s4445" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="87@pjwstk.edu.pl" Imie="Kamil" Nazwisko="Brzęczyszczykiewicz87" Tryb="Sztuka Nowych Mediów dzienne" Id="s4707" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="88@pjwstk.edu.pl" Imie="Jagna" Nazwisko="Maciejewski88" Tryb="Sztuka Nowych Mediów dzienne" Id="s4764" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="89@pjwstk.edu.pl" Imie="Izabela" Nazwisko="Jankowski89" Tryb="Sztuka Nowych Mediów dzienne" Id="s4722" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="90@pjwstk.edu.pl" Imie="Mateusz" Nazwisko="Kowalski90" Tryb="Sztuka Nowych Mediów dzienne" Id="s4452" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="91@pjwstk.edu.pl" Imie="Daria" Nazwisko="Nowak91" Tryb="Sztuka Nowych Mediów dzienne" Id="s4545" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="92@pjwstk.edu.pl" Imie="Agnieszka" Nazwisko="Brzęczyszczykiewicz92" Tryb="Sztuka Nowych Mediów dzienne" Id="s4771" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="93@pjwstk.edu.pl" Imie="Iwona" Nazwisko="Maciejewski93" Tryb="Sztuka Nowych Mediów dzienne" Id="s4706" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="94@pjwstk.edu.pl" Imie="Aleksandra" Nazwisko="Jankowski94" Tryb="Sztuka Nowych Mediów dzienne" Id="s4772" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="95@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Kowalski95" Tryb="Informatyka dzienne" Id="s3374" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="95@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Kowalski95" Tryb="Sztuka Nowych Mediów dzienne" Id="s3374" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="96@pjwstk.edu.pl" Imie="Jolanta" Nazwisko="Nowak96" Tryb="Sztuka Nowych Mediów dzienne" Id="s4756" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="96@pjwstk.edu.pl" Imie="Jolanta" Nazwisko="Nowak96" Tryb="Sztuka Nowych Mediów uzupełniające magisterskie" Id="s4756" Imie_Matki="" Imie_Ojca="" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów uzupełniające magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="97@pjwstk.edu.pl" Imie="Aleksandra" Nazwisko="Brzęczyszczykiewicz97" Tryb="Sztuka Nowych Mediów dzienne" Id="s4457" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="252@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Brzęczyszczykiewicz252" Tryb="Informatyka dzienne po angielsku" Id="s4412" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="252@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Brzęczyszczykiewicz252" Tryb="Informatyka magisterskie 3 sem" Id="s4412" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="253@pjwstk.edu.pl" Imie="Dariusz" Nazwisko="Maciejewski253" Tryb="Informatyka dzienne" Id="s4525" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="254@pjwstk.edu.pl" Imie="Kamil" Nazwisko="Jankowski254" Tryb="Informatyka dzienne" Id="s4836" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="254@pjwstk.edu.pl" Imie="Kamil" Nazwisko="Jankowski254" Tryb="Informatyka zaoczne" Id="s4836" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="255@pjwstk.edu.pl" Imie="Łukasz" Nazwisko="Kowalski255" Tryb="Informatyka dzienne" Id="s4788" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="256@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Nowak256" Tryb="Informatyka dzienne po angielsku" Id="s4474" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="257@pjwstk.edu.pl" Imie="Michał" Nazwisko="Brzęczyszczykiewicz257" Tryb="Informatyka dzienne" Id="s4454" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="257@pjwstk.edu.pl" Imie="Michał" Nazwisko="Brzęczyszczykiewicz257" Tryb="Informatyka magisterskie 3 sem" Id="s4454" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="258@pjwstk.edu.pl" Imie="Patryk" Nazwisko="Maciejewski258" Tryb="Informatyka dzienne" Id="s4443" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="258@pjwstk.edu.pl" Imie="Patryk" Nazwisko="Maciejewski258" Tryb="Informatyka dzienne po angielsku" Id="s4443" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="259@pjwstk.edu.pl" Imie="Bhagirath" Nazwisko="Jankowski259" Tryb="Informatyka dzienne" Id="s4851" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="260@pjwstk.edu.pl" Imie="Michał" Nazwisko="Kowalski260" Tryb="Informatyka dzienne" Id="s4579" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="260@pjwstk.edu.pl" Imie="Michał" Nazwisko="Kowalski260" Tryb="Informatyka zaoczne" Id="s4579" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="261@pjwstk.edu.pl" Imie="Marek" Nazwisko="Nowak261" Tryb="Informatyka dzienne" Id="s4461" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="262@pjwstk.edu.pl" Imie="Przemysław" Nazwisko="Brzęczyszczykiewicz262" Tryb="Informatyka dzienne" Id="s4747" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="263@pjwstk.edu.pl" Imie="Marcin" Nazwisko="Maciejewski263" Tryb="Informatyka dzienne" Id="s4762" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="264@pjwstk.edu.pl" Imie="Zuzanna" Nazwisko="Jankowski264" Tryb="Zarządzanie informacją dzienne (kierunek Zarządzanie)" Id="s4413" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Zarządzanie informacją dzienne (kierunek Zarządzanie)</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="264@pjwstk.edu.pl" Imie="Zuzanna" Nazwisko="Jankowski264" Tryb="Informatyka dzienne po angielsku" Id="s4413" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="265@pjwstk.edu.pl" Imie="Michał" Nazwisko="Kowalski265" Tryb="Informatyka dzienne" Id="s4490" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="266@pjwstk.edu.pl" Imie="Wojciech" Nazwisko="Nowak266" Tryb="Informatyka dzienne po angielsku" Id="s4554" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="266@pjwstk.edu.pl" Imie="Wojciech" Nazwisko="Nowak266" Tryb="Informatyka magisterskie 3 sem" Id="s4554" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="267@pjwstk.edu.pl" Imie="Enkh-Amgalan" Nazwisko="Brzęczyszczykiewicz267" Tryb="Informatyka dzienne" Id="s4340" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="268@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Maciejewski268" Tryb="Informatyka dzienne" Id="s4586" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="269@pjwstk.edu.pl" Imie="Bartosz" Nazwisko="Jankowski269" Tryb="Informatyka dzienne" Id="s4798" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="270@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Kowalski270" Tryb="Informatyka dzienne" Id="s4711" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="270@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Kowalski270" Tryb="Informatyka internetowe" Id="s4711" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka internetowe</name>
+      <mode>Internetowe</mode>
+    </studia>
+  </Student>
+  <Student Email="270@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Kowalski270" Tryb="Informatyka magisterskie 3 sem" Id="s4711" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="271@pjwstk.edu.pl" Imie="Sebastian" Nazwisko="Nowak271" Tryb="Informatyka dzienne" Id="s4056" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="272@pjwstk.edu.pl" Imie="Aleksandra" Nazwisko="Brzęczyszczykiewicz272" Tryb="Informatyka dzienne" Id="s4549" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="272@pjwstk.edu.pl" Imie="Aleksandra" Nazwisko="Brzęczyszczykiewicz272" Tryb="Informatyka dzienne po angielsku" Id="s4549" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="272@pjwstk.edu.pl" Imie="Aleksandra" Nazwisko="Brzęczyszczykiewicz272" Tryb="Informatyka magisterskie 3 sem" Id="s4549" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="273@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Maciejewski273" Tryb="Informatyka dzienne" Id="s4618" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="273@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Maciejewski273" Tryb="Informatyka magisterskie 3 sem" Id="s4618" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="274@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Jankowski274" Tryb="Informatyka dzienne" Id="s4530" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="274@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Jankowski274" Tryb="Informatyka zaoczne" Id="s4530" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="275@pjwstk.edu.pl" Imie="Andrzej" Nazwisko="Kowalski275" Tryb="Informatyka dzienne" Id="s4607" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="275@pjwstk.edu.pl" Imie="Andrzej" Nazwisko="Kowalski275" Tryb="Informatyka zaoczne" Id="s4607" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="276@pjwstk.edu.pl" Imie="Wojciech" Nazwisko="Nowak276" Tryb="Informatyka dzienne" Id="s4459" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="276@pjwstk.edu.pl" Imie="Wojciech" Nazwisko="Nowak276" Tryb="Informatyka zaoczne" Id="s4459" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="277@pjwstk.edu.pl" Imie="Monika" Nazwisko="Brzęczyszczykiewicz277" Tryb="Informatyka dzienne po angielsku" Id="s4501" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="278@pjwstk.edu.pl" Imie="Jan" Nazwisko="Maciejewski278" Tryb="Informatyka dzienne" Id="s4858" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="279@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Jankowski279" Tryb="Informatyka dzienne" Id="s4578" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="280@pjwstk.edu.pl" Imie="Bartosz" Nazwisko="Kowalski280" Tryb="Informatyka dzienne" Id="s4555" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="281@pjwstk.edu.pl" Imie="Agata" Nazwisko="Nowak281" Tryb="Informatyka dzienne" Id="s4589" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="281@pjwstk.edu.pl" Imie="Agata" Nazwisko="Nowak281" Tryb="Informatyka zaoczne" Id="s4589" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="281@pjwstk.edu.pl" Imie="Agata" Nazwisko="Nowak281" Tryb="Informatyka internetowe" Id="s4589" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka internetowe</name>
+      <mode>Internetowe</mode>
+    </studia>
+  </Student>
+  <Student Email="282@pjwstk.edu.pl" Imie="Matthew" Nazwisko="Brzęczyszczykiewicz282" Tryb="Informatyka dzienne" Id="s4945" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="283@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Maciejewski283" Tryb="Informatyka dzienne po angielsku" Id="s4556" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="283@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Maciejewski283" Tryb="Informatyka magisterskie uzupełniające zaoczne" Id="s4556" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie uzupełniające zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="284@pjwstk.edu.pl" Imie="Grzegorz" Nazwisko="Jankowski284" Tryb="Informatyka dzienne po angielsku" Id="s4504" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="284@pjwstk.edu.pl" Imie="Grzegorz" Nazwisko="Jankowski284" Tryb="Informatyka magisterskie 3 sem" Id="s4504" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="285@pjwstk.edu.pl" Imie="Sebastian" Nazwisko="Kowalski285" Tryb="Informatyka dzienne" Id="s4505" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="285@pjwstk.edu.pl" Imie="Sebastian" Nazwisko="Kowalski285" Tryb="Informatyka magisterskie 3 sem" Id="s4505" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="286@pjwstk.edu.pl" Imie="Filip" Nazwisko="Nowak286" Tryb="Informatyka dzienne" Id="s4105" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="286@pjwstk.edu.pl" Imie="Filip" Nazwisko="Nowak286" Tryb="Informatyka zaoczne" Id="s4105" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="286@pjwstk.edu.pl" Imie="Filip" Nazwisko="Nowak286" Tryb="Informatyka jednolite magisterskie" Id="s4105" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka jednolite magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="287@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Brzęczyszczykiewicz287" Tryb="Informatyka dzienne" Id="s4487" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="288@pjwstk.edu.pl" Imie="Artur" Nazwisko="Maciejewski288" Tryb="Informatyka dzienne" Id="s4498" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="288@pjwstk.edu.pl" Imie="Artur" Nazwisko="Maciejewski288" Tryb="Informatyka magisterskie 3 sem" Id="s4498" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="289@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Jankowski289" Tryb="Informatyka dzienne" Id="s4471" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="289@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Jankowski289" Tryb="Informatyka zaoczne" Id="s4471" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="289@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Jankowski289" Tryb="Informatyka dzienne po angielsku" Id="s4471" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="290@pjwstk.edu.pl" Imie="Małgorzata" Nazwisko="Kowalski290" Tryb="Informatyka dzienne" Id="s4855" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="291@pjwstk.edu.pl" Imie="Arkadiusz" Nazwisko="Nowak291" Tryb="Informatyka dzienne" Id="s4752" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="292@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Brzęczyszczykiewicz292" Tryb="Informatyka dzienne" Id="s4770" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="293@pjwstk.edu.pl" Imie="Adam" Nazwisko="Maciejewski293" Tryb="Informatyka dzienne" Id="s4476" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="294@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Jankowski294" Tryb="Informatyka dzienne" Id="s4724" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="294@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Jankowski294" Tryb="Informatyka magisterskie 3 sem" Id="s4724" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="295@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Kowalski295" Tryb="Informatyka dzienne" Id="s4754" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="296@pjwstk.edu.pl" Imie="Michał" Nazwisko="Nowak296" Tryb="Informatyka dzienne" Id="s4769" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="296@pjwstk.edu.pl" Imie="Michał" Nazwisko="Nowak296" Tryb="Informatyka zaoczne" Id="s4769" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="297@pjwstk.edu.pl" Imie="Maciej" Nazwisko="Brzęczyszczykiewicz297" Tryb="Informatyka dzienne" Id="s4499" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="298@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Maciejewski298" Tryb="Informatyka dzienne" Id="s4733" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="298@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Maciejewski298" Tryb="Informatyka internetowe" Id="s4733" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka internetowe</name>
+      <mode>Internetowe</mode>
+    </studia>
+  </Student>
+  <Student Email="299@pjwstk.edu.pl" Imie="Kasper" Nazwisko="Jankowski299" Tryb="Informatyka dzienne" Id="s4584" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="299@pjwstk.edu.pl" Imie="Kasper" Nazwisko="Jankowski299" Tryb="Informatyka magisterskie 3 sem" Id="s4584" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="300@pjwstk.edu.pl" Imie="Krzysztof" Nazwisko="Kowalski300" Tryb="Informatyka dzienne" Id="s4514" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="300@pjwstk.edu.pl" Imie="Krzysztof" Nazwisko="Kowalski300" Tryb="Informatyka magisterskie uzupełniające zaoczne" Id="s4514" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie uzupełniające zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="301@pjwstk.edu.pl" Imie="Michał" Nazwisko="Nowak301" Tryb="Informatyka dzienne" Id="s4448" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="302@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Brzęczyszczykiewicz302" Tryb="Informatyka dzienne" Id="s4664" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="303@pjwstk.edu.pl" Imie="Katarzyna" Nazwisko="Maciejewski303" Tryb="Informatyka dzienne" Id="s4935" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="303@pjwstk.edu.pl" Imie="Katarzyna" Nazwisko="Maciejewski303" Tryb="Informatyka magisterskie 3 sem" Id="s4935" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="304@pjwstk.edu.pl" Imie="Konrad" Nazwisko="Jankowski304" Tryb="Informatyka dzienne" Id="s4485" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="305@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Kowalski305" Tryb="Informatyka dzienne" Id="s4456" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="305@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Kowalski305" Tryb="Informatyka magisterskie 3 sem" Id="s4456" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="306@pjwstk.edu.pl" Imie="Jan" Nazwisko="Nowak306" Tryb="Informatyka dzienne" Id="s4107" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="306@pjwstk.edu.pl" Imie="Jan" Nazwisko="Nowak306" Tryb="Informatyka internetowe" Id="s4107" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka internetowe</name>
+      <mode>Internetowe</mode>
+    </studia>
+  </Student>
+  <Student Email="306@pjwstk.edu.pl" Imie="Jan" Nazwisko="Nowak306" Tryb="Informatyka jednolite magisterskie" Id="s4107" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka jednolite magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="306@pjwstk.edu.pl" Imie="Jan" Nazwisko="Nowak306" Tryb="Informatyka jednolite magisterskie po angielsku" Id="s4107" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka jednolite magisterskie po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="307@pjwstk.edu.pl" Imie="Radosław" Nazwisko="Brzęczyszczykiewicz307" Tryb="Informatyka dzienne po angielsku" Id="s4482" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="308@pjwstk.edu.pl" Imie="Kacper" Nazwisko="Maciejewski308" Tryb="Informatyka dzienne" Id="s4817" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="308@pjwstk.edu.pl" Imie="Kacper" Nazwisko="Maciejewski308" Tryb="Informatyka magisterskie 3 sem" Id="s4817" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="309@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Jankowski309" Tryb="Informatyka dzienne" Id="s4765" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="310@pjwstk.edu.pl" Imie="Lech" Nazwisko="Kowalski310" Tryb="Informatyka dzienne" Id="s4387" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="310@pjwstk.edu.pl" Imie="Lech" Nazwisko="Kowalski310" Tryb="Informatyka dzienne po angielsku" Id="s4387" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="311@pjwstk.edu.pl" Imie="Błażej" Nazwisko="Nowak311" Tryb="Informatyka dzienne po angielsku" Id="s4509" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="311@pjwstk.edu.pl" Imie="Błażej" Nazwisko="Nowak311" Tryb="Informatyka magisterskie uzupełniające zaoczne" Id="s4509" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie uzupełniające zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="312@pjwstk.edu.pl" Imie="Karol" Nazwisko="Brzęczyszczykiewicz312" Tryb="Informatyka dzienne" Id="s4609" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="313@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Maciejewski313" Tryb="Informatyka dzienne" Id="s4481" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="313@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Maciejewski313" Tryb="Informatyka zaoczne" Id="s4481" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="314@pjwstk.edu.pl" Imie="Wojciech" Nazwisko="Jankowski314" Tryb="Informatyka dzienne po angielsku" Id="s4512" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="314@pjwstk.edu.pl" Imie="Wojciech" Nazwisko="Jankowski314" Tryb="Informatyka magisterskie 3 sem" Id="s4512" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="315@pjwstk.edu.pl" Imie="Maciej" Nazwisko="Kowalski315" Tryb="Informatyka dzienne" Id="s4782" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="315@pjwstk.edu.pl" Imie="Maciej" Nazwisko="Kowalski315" Tryb="Informatyka Społeczna" Id="s4782" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka Społeczna</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="316@pjwstk.edu.pl" Imie="Michał" Nazwisko="Nowak316" Tryb="Informatyka dzienne" Id="s4492" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="317@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Brzęczyszczykiewicz317" Tryb="Informatyka dzienne" Id="s4531" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="318@pjwstk.edu.pl" Imie="Marcin" Nazwisko="Maciejewski318" Tryb="Informatyka dzienne po angielsku" Id="s4406" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="319@pjwstk.edu.pl" Imie="Krzysztof" Nazwisko="Jankowski319" Tryb="Informatyka dzienne" Id="s4394" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="320@pjwstk.edu.pl" Imie="Michał" Nazwisko="Kowalski320" Tryb="Informatyka internetowe magisterskie" Id="s4627" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka internetowe magisterskie</name>
+      <mode>Internetowe</mode>
+    </studia>
+  </Student>
+  <Student Email="320@pjwstk.edu.pl" Imie="Michał" Nazwisko="Kowalski320" Tryb="Informatyka dzienne po angielsku" Id="s4627" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="321@pjwstk.edu.pl" Imie="Krzysztof" Nazwisko="Nowak321" Tryb="Informatyka dzienne" Id="s4830" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="321@pjwstk.edu.pl" Imie="Krzysztof" Nazwisko="Nowak321" Tryb="Informatyka zaoczne" Id="s4830" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="322@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Brzęczyszczykiewicz322" Tryb="Informatyka dzienne" Id="s4486" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="323@pjwstk.edu.pl" Imie="Mariusz" Nazwisko="Maciejewski323" Tryb="Informatyka dzienne po angielsku" Id="s4447" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="323@pjwstk.edu.pl" Imie="Mariusz" Nazwisko="Maciejewski323" Tryb="Informatyka magisterskie 3 sem" Id="s4447" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="324@pjwstk.edu.pl" Imie="Bartosz" Nazwisko="Jankowski324" Tryb="Informatyka dzienne po angielsku" Id="s4580" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="324@pjwstk.edu.pl" Imie="Bartosz" Nazwisko="Jankowski324" Tryb="Informatyka magisterskie 3 sem" Id="s4580" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="325@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Kowalski325" Tryb="Informatyka dzienne" Id="s4284" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="325@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Kowalski325" Tryb="Sztuka Nowych Mediów zaoczne" Id="s4284" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Sztuka Nowych Mediów zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="326@pjwstk.edu.pl" Imie="Michał" Nazwisko="Nowak326" Tryb="Informatyka dzienne" Id="s4440" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="326@pjwstk.edu.pl" Imie="Michał" Nazwisko="Nowak326" Tryb="Informatyka magisterskie 3 sem" Id="s4440" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="327@pjwstk.edu.pl" Imie="Aleksander" Nazwisko="Brzęczyszczykiewicz327" Tryb="Informatyka dzienne po angielsku" Id="s4410" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="328@pjwstk.edu.pl" Imie="Andrzej" Nazwisko="Maciejewski328" Tryb="Informatyka dzienne" Id="s4615" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="329@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Jankowski329" Tryb="Informatyka dzienne" Id="s4796" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="329@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Jankowski329" Tryb="Informatyka magisterskie 3 sem" Id="s4796" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="330@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Kowalski330" Tryb="Informatyka dzienne" Id="s4458" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="332@pjwstk.edu.pl" Imie="Nakul" Nazwisko="Brzęczyszczykiewicz332" Tryb="Informatyka dzienne po angielsku" Id="s4942" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="332@pjwstk.edu.pl" Imie="Nakul" Nazwisko="Brzęczyszczykiewicz332" Tryb="Informatyka magisterskie 3 sem" Id="s4942" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="333@pjwstk.edu.pl" Imie="Tomoto" Nazwisko="Maciejewski333" Tryb="Informatyka dzienne" Id="s4614" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="333@pjwstk.edu.pl" Imie="Tomoto" Nazwisko="Maciejewski333" Tryb="Informatyka zaoczne" Id="s4614" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="334@pjwstk.edu.pl" Imie="Krzysztof" Nazwisko="Jankowski334" Tryb="Informatyka dzienne" Id="s4822" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="335@pjwstk.edu.pl" Imie="Adam" Nazwisko="Kowalski335" Tryb="Informatyka dzienne po angielsku" Id="s4433" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="335@pjwstk.edu.pl" Imie="Adam" Nazwisko="Kowalski335" Tryb="Informatyka magisterskie 3 sem" Id="s4433" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="336@pjwstk.edu.pl" Imie="Jan" Nazwisko="Nowak336" Tryb="Informatyka dzienne" Id="s4557" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="337@pjwstk.edu.pl" Imie="Gabriel" Nazwisko="Brzęczyszczykiewicz337" Tryb="Informatyka dzienne" Id="s4599" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="338@pjwstk.edu.pl" Imie="Michał" Nazwisko="Maciejewski338" Tryb="Informatyka dzienne" Id="s4419" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="338@pjwstk.edu.pl" Imie="Michał" Nazwisko="Maciejewski338" Tryb="Informatyka magisterskie 3 sem" Id="s4419" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="338@pjwstk.edu.pl" Imie="Michał" Nazwisko="Maciejewski338" Tryb="Informatyka doktoranckie" Id="s4419" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka doktoranckie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="339@pjwstk.edu.pl" Imie="Michał" Nazwisko="Jankowski339" Tryb="Informatyka dzienne" Id="s4828" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="340@pjwstk.edu.pl" Imie="Kacper" Nazwisko="Kowalski340" Tryb="Informatyka dzienne" Id="s4460" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="341@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Nowak341" Tryb="Informatyka dzienne" Id="s4058" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="341@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Nowak341" Tryb="Informatyka wieczorowe" Id="s4058" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka wieczorowe</name>
+      <mode>Wieczorowe</mode>
+    </studia>
+  </Student>
+  <Student Email="342@pjwstk.edu.pl" Imie="Michał" Nazwisko="Brzęczyszczykiewicz342" Tryb="Informatyka dzienne po angielsku" Id="s4524" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="342@pjwstk.edu.pl" Imie="Michał" Nazwisko="Brzęczyszczykiewicz342" Tryb="Informatyka magisterskie 3 sem" Id="s4524" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="343@pjwstk.edu.pl" Imie="Katarzyna" Nazwisko="Maciejewski343" Tryb="Informatyka dzienne" Id="s4588" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="344@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Jankowski344" Tryb="Informatyka dzienne" Id="s4743" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="345@pjwstk.edu.pl" Imie="Karol" Nazwisko="Kowalski345" Tryb="Informatyka dzienne" Id="s4721" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="346@pjwstk.edu.pl" Imie="Radosław" Nazwisko="Nowak346" Tryb="Informatyka dzienne po angielsku" Id="s4544" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="347@pjwstk.edu.pl" Imie="Marco" Nazwisko="Brzęczyszczykiewicz347" Tryb="Informatyka dzienne" Id="s4426" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="348@pjwstk.edu.pl" Imie="Jagoda" Nazwisko="Maciejewski348" Tryb="Informatyka dzienne" Id="s4532" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="348@pjwstk.edu.pl" Imie="Jagoda" Nazwisko="Maciejewski348" Tryb="Informatyka magisterskie 3 sem" Id="s4532" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="349@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Jankowski349" Tryb="Informatyka dzienne" Id="s4480" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="349@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Jankowski349" Tryb="Informatyka magisterskie 3 sem" Id="s4480" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="350@pjwstk.edu.pl" Imie="Przemysław" Nazwisko="Kowalski350" Tryb="Informatyka dzienne" Id="s4441" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="351@pjwstk.edu.pl" Imie="Michał" Nazwisko="Nowak351" Tryb="Informatyka dzienne" Id="s4523" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="351@pjwstk.edu.pl" Imie="Michał" Nazwisko="Nowak351" Tryb="Informatyka magisterskie 3 sem" Id="s4523" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="352@pjwstk.edu.pl" Imie="Bartosz" Nazwisko="Brzęczyszczykiewicz352" Tryb="Informatyka dzienne" Id="s4766" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="352@pjwstk.edu.pl" Imie="Bartosz" Nazwisko="Brzęczyszczykiewicz352" Tryb="Informatyka internetowe" Id="s4766" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka internetowe</name>
+      <mode>Internetowe</mode>
+    </studia>
+  </Student>
+  <Student Email="353@pjwstk.edu.pl" Imie="Achut" Nazwisko="Maciejewski353" Tryb="Informatyka dzienne po angielsku" Id="s4941" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="354@pjwstk.edu.pl" Imie="Aleksander" Nazwisko="Jankowski354" Tryb="Informatyka dzienne po angielsku" Id="s4647" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="355@pjwstk.edu.pl" Imie="Jan" Nazwisko="Kowalski355" Tryb="Informatyka dzienne" Id="s4500" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="356@pjwstk.edu.pl" Imie="Yuriy" Nazwisko="Nowak356" Tryb="Informatyka dzienne" Id="s4422" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="356@pjwstk.edu.pl" Imie="Yuriy" Nazwisko="Nowak356" Tryb="Informatyka magisterskie 3 sem" Id="s4422" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="357@pjwstk.edu.pl" Imie="Michał" Nazwisko="Brzęczyszczykiewicz357" Tryb="Informatyka dzienne po angielsku" Id="s4660" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="357@pjwstk.edu.pl" Imie="Michał" Nazwisko="Brzęczyszczykiewicz357" Tryb="Informatyka magisterskie 3 sem" Id="s4660" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="358@pjwstk.edu.pl" Imie="Michał" Nazwisko="Maciejewski358" Tryb="Informatyka dzienne po angielsku" Id="s4521" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="359@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Jankowski359" Tryb="Informatyka dzienne" Id="s4585" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="360@pjwstk.edu.pl" Imie="Mikołaj" Nazwisko="Kowalski360" Tryb="Informatyka dzienne" Id="s3081" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="360@pjwstk.edu.pl" Imie="Mikołaj" Nazwisko="Kowalski360" Tryb="Informatyka jednolite magisterskie" Id="s3081" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka jednolite magisterskie</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="360@pjwstk.edu.pl" Imie="Mikołaj" Nazwisko="Kowalski360" Tryb="Informatyka jednolite magisterskie po angielsku" Id="s3081" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka jednolite magisterskie po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="361@pjwstk.edu.pl" Imie="Dariusz" Nazwisko="Nowak361" Tryb="Informatyka dzienne" Id="s4710" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="362@pjwstk.edu.pl" Imie="Anna" Nazwisko="Brzęczyszczykiewicz362" Tryb="Informatyka dzienne" Id="s4385" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="362@pjwstk.edu.pl" Imie="Anna" Nazwisko="Brzęczyszczykiewicz362" Tryb="Informatyka internetowe" Id="s4385" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka internetowe</name>
+      <mode>Internetowe</mode>
+    </studia>
+  </Student>
+  <Student Email="363@pjwstk.edu.pl" Imie="Piotr" Nazwisko="Maciejewski363" Tryb="Informatyka dzienne" Id="s4529" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="364@pjwstk.edu.pl" Imie="Michał" Nazwisko="Jankowski364" Tryb="Informatyka zaoczne" Id="s4522" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="364@pjwstk.edu.pl" Imie="Michał" Nazwisko="Jankowski364" Tryb="Informatyka dzienne po angielsku" Id="s4522" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="365@pjwstk.edu.pl" Imie="Dawid" Nazwisko="Kowalski365" Tryb="Informatyka dzienne" Id="s4827" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="366@pjwstk.edu.pl" Imie="Karol" Nazwisko="Nowak366" Tryb="Informatyka dzienne" Id="s4518" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="366@pjwstk.edu.pl" Imie="Karol" Nazwisko="Nowak366" Tryb="Informatyka magisterskie 3 sem" Id="s4518" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="367@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Brzęczyszczykiewicz367" Tryb="Informatyka dzienne" Id="s4384" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="367@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Brzęczyszczykiewicz367" Tryb="Informatyka zaoczne" Id="s4384" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="367@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Brzęczyszczykiewicz367" Tryb="Informatyka internetowe" Id="s4384" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka internetowe</name>
+      <mode>Internetowe</mode>
+    </studia>
+  </Student>
+  <Student Email="368@pjwstk.edu.pl" Imie="Łukasz" Nazwisko="Maciejewski368" Tryb="Informatyka dzienne" Id="s4496" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="368@pjwstk.edu.pl" Imie="Łukasz" Nazwisko="Maciejewski368" Tryb="Informatyka Społeczna" Id="s4496" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka Społeczna</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="369@pjwstk.edu.pl" Imie="Adam" Nazwisko="Jankowski369" Tryb="Informatyka dzienne" Id="s4750" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="369@pjwstk.edu.pl" Imie="Adam" Nazwisko="Jankowski369" Tryb="Informatyka zaoczne" Id="s4750" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="369@pjwstk.edu.pl" Imie="Adam" Nazwisko="Jankowski369" Tryb="Informatyka internetowe" Id="s4750" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka internetowe</name>
+      <mode>Internetowe</mode>
+    </studia>
+  </Student>
+  <Student Email="370@pjwstk.edu.pl" Imie="Arkadiusz" Nazwisko="Kowalski370" Tryb="Informatyka dzienne" Id="s4111" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="371@pjwstk.edu.pl" Imie="Jakub" Nazwisko="Nowak371" Tryb="Informatyka dzienne" Id="s4484" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="372@pjwstk.edu.pl" Imie="Michał" Nazwisko="Brzęczyszczykiewicz372" Tryb="Informatyka dzienne po angielsku" Id="s4483" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="372@pjwstk.edu.pl" Imie="Michał" Nazwisko="Brzęczyszczykiewicz372" Tryb="Informatyka magisterskie 3 sem" Id="s4483" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="373@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Maciejewski373" Tryb="Informatyka dzienne" Id="s4751" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="373@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Maciejewski373" Tryb="Informatyka magisterskie 3 sem" Id="s4751" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="373@pjwstk.edu.pl" Imie="Tomasz" Nazwisko="Maciejewski373" Tryb="MBA dla branży IT" Id="s4751" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>MBA dla branży IT</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="374@pjwstk.edu.pl" Imie="Radosław" Nazwisko="Jankowski374" Tryb="Informatyka dzienne" Id="s4528" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="374@pjwstk.edu.pl" Imie="Radosław" Nazwisko="Jankowski374" Tryb="Informatyka magisterskie 3 sem" Id="s4528" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="375@pjwstk.edu.pl" Imie="Paweł" Nazwisko="Kowalski375" Tryb="Informatyka dzienne" Id="s4533" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="376@pjwstk.edu.pl" Imie="Przemysław" Nazwisko="Nowak376" Tryb="Informatyka dzienne" Id="s4814" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="376@pjwstk.edu.pl" Imie="Przemysław" Nazwisko="Nowak376" Tryb="Informatyka zaoczne" Id="s4814" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka zaoczne</name>
+      <mode>Zaoczne</mode>
+    </studia>
+  </Student>
+  <Student Email="377@pjwstk.edu.pl" Imie="Adam" Nazwisko="Brzęczyszczykiewicz377" Tryb="Informatyka dzienne" Id="s4753" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="378@pjwstk.edu.pl" Imie="Dawid" Nazwisko="Maciejewski378" Tryb="Informatyka dzienne" Id="s4520" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="379@pjwstk.edu.pl" Imie="Adrian" Nazwisko="Jankowski379" Tryb="Informatyka dzienne" Id="s4837" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="380@pjwstk.edu.pl" Imie="Sławomir" Nazwisko="Kowalski380" Tryb="Informatyka dzienne" Id="s4611" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="381@pjwstk.edu.pl" Imie="Rafał" Nazwisko="Nowak381" Tryb="Informatyka dzienne" Id="s4616" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="381@pjwstk.edu.pl" Imie="Rafał" Nazwisko="Nowak381" Tryb="Informatyka magisterskie 3 sem" Id="s4616" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka magisterskie 3 sem</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+  <Student Email="382@pjwstk.edu.pl" Imie="Agnieszka" Nazwisko="Brzęczyszczykiewicz382" Tryb="Informatyka dzienne po angielsku" Id="s4603" Imie_Matki="Alina" Imie_Ojca="Adam" Data_urodzenia="12.02.2000">
+    <studia>
+      <name>Informatyka dzienne po angielsku</name>
+      <mode>Dzienne</mode>
+    </studia>
+  </Student>
+</uczelnia>

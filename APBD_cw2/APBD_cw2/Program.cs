@@ -39,10 +39,15 @@ namespace APBD_cw2
                         imie = split[0],
                         nazwisko = split[1],
                         tryb = split[2],
-                        studia = split[3],
+                        // studia = split[3],
                         email = split[6],
                         imieMatki = split[7],
                         imieOjca = split[8],
+                        studia = new Study
+                        {
+                            name = split[2],
+                            mode = split[3]
+                        },
                         dataUrodzenia = DateTime.Parse(split[5]).ToShortDateString(),
                     });
                 }

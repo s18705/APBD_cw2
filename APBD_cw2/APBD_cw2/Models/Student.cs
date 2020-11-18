@@ -31,7 +31,9 @@ namespace APBD_cw2.Models
         [XmlAttribute(attributeName: "Data_urodzenia")]
         public string dataUrodzenia { get; set; }
 
-        [XmlAttribute(attributeName: "Studia")]
-        public string studia { get; set; }
+        //[XmlAttribute(attributeName: "Studia")]
+       // public string studia { get; set; }
+
+        public Study studia { get; set; }
     }
 }
